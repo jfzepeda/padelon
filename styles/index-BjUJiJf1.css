@@ -319,10 +319,12 @@ video {
   display: none;
 }
 :root {
-  --color-verde: 37 88 79;
-  --color-beige: 1 58 64;
+  --color-verde: 111 78 55;
+  --color-beige: 87 61 43;
+  /* --color-beige: 22 27 51; */
+  /* --color-beige: 241 218 196; */
   --color-marfil: 255 255 255;
-  --color-medianoche: 10 10 10;
+  --color-medianoche: 13 12 29;
 }
 html {
   scroll-behavior: smooth;
