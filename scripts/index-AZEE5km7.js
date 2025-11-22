@@ -31227,7 +31227,7 @@ const $y = ln.object({
                             _.jsx("div", {
                               className:
                                 "text-xl font-semibold mb-2 text-marfil",
-                              children: "De Suma 4",
+                              children: "De Suma 5",
                             }),
                             _.jsx("div", {
                               className: "text-3xl font-bold text-marfil mb-2",
