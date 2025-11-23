@@ -54989,8 +54989,7 @@ const zj = () => {
                         _.jsx("blockquote", {
                           className:
                             "text-3xl font-heading italic text-verde mb-6",
-                          children:
-                            '"El inicio de una nueva era en el padel. Un torneo que conecta a jóvenes en un ambiente vibrante y exclusivo."',
+                          children: '" "',
                         }),
                         _.jsx("cite", {
                           className:
@@ -55241,8 +55240,7 @@ const zj = () => {
                 }),
                 _.jsx("p", {
                   className: "text-marfil/80 mb-4",
-                  children:
-                    "El inicio de una nueva era en el padel. Un torneo que conecta a jóvenes en un ambiente vibrante y exclusivo.",
+                  children: " ",
                 }),
               ],
             }),
