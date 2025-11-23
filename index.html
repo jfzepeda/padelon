@@ -53,7 +53,12 @@
                   >Contacto</a
                 >
               </div>
-              <button class="md:hidden text-marfil">
+              <button
+                id="mobile-menu-button"
+                class="md:hidden text-marfil"
+                aria-controls="mobile-menu"
+                aria-expanded="false"
+              >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   width="24"
@@ -71,6 +76,41 @@
                   <line x1="4" x2="20" y1="18" y2="18"></line>
                 </svg>
               </button>
+            </div>
+            <!-- Mobile menu (hidden by default) -->
+            <div
+              id="mobile-menu"
+              class="md:hidden hidden border-t border-marfil/20"
+            >
+              <div class="container py-3 space-y-2">
+                <a
+                  class="block text-sm font-medium text-marfil hover:text-beige transition-colors duration-300"
+                  href="/"
+                  >Inicio</a
+                >
+                <a
+                  class="block text-sm font-medium text-marfil hover:text-beige transition-colors duration-300"
+                  href="/acerca-de.html"
+                  >Acerca de</a
+                >
+                <a
+                  class="block text-sm font-medium text-marfil hover:text-beige transition-colors duration-300"
+                  href="/sede.html"
+                  >Sede</a
+                >
+                <a
+                  class="block text-sm font-medium text-marfil hover:text-beige transition-colors duration-300"
+                  href="/registro.html"
+                  >Inscripción</a
+                >
+                <a
+                  class="block text-sm font-medium text-marfil hover:text-beige transition-colors duration-300"
+                  href="https://wa.me/5213133225484"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  >Contacto</a
+                >
+              </div>
             </div>
           </nav>
         </div>
@@ -897,4 +937,16 @@
       </div>
     </div>
   </body>
+  <script>
+    (function () {
+      const btn = document.getElementById("mobile-menu-button");
+      const menu = document.getElementById("mobile-menu");
+      if (!btn || !menu) return;
+      btn.addEventListener("click", () => {
+        const isHidden = menu.classList.contains("hidden");
+        menu.classList.toggle("hidden", !isHidden);
+        btn.setAttribute("aria-expanded", String(isHidden));
+      });
+    })();
+  </script>
 </html>
