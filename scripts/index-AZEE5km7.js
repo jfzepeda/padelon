@@ -31231,7 +31231,7 @@ const $y = ln.object({
                             }),
                             _.jsx("div", {
                               className: "text-3xl font-bold text-marfil mb-2",
-                              children: "$900 MXN",
+                              children: "$950 MXN",
                             }),
                             _.jsx("div", {
                               className: "text-sm text-marfil/80",
@@ -31279,7 +31279,7 @@ const $y = ln.object({
                             }),
                             _.jsx("div", {
                               className: "text-3xl font-bold text-marfil mb-2",
-                              children: "$900 MXN",
+                              children: "$950 MXN",
                             }),
                             _.jsx("div", {
                               className: "text-sm text-marfil/80",
@@ -31327,7 +31327,7 @@ const $y = ln.object({
                             }),
                             _.jsx("div", {
                               className: "text-3xl font-bold text-marfil mb-2",
-                              children: "$900 MXN",
+                              children: "$950 MXN",
                             }),
                             _.jsx("div", {
                               className: "text-sm text-marfil/80",
@@ -31375,7 +31375,7 @@ const $y = ln.object({
                             }),
                             _.jsx("div", {
                               className: "text-3xl font-bold text-marfil mb-2",
-                              children: "$900 MXN",
+                              children: "$950 MXN",
                             }),
                             _.jsx("div", {
                               className: "text-sm text-marfil/80",
@@ -31404,12 +31404,12 @@ const $y = ln.object({
                 _.jsx("p", {
                   className: "text-sm font-medium",
                   children:
-                    "Cierre oficial de inscripciones: lunes 10 de enero",
+                    "Cierre oficial de inscripciones: domingo 1 de febrero",
                 }),
                 _.jsx("p", {
                   className: "text-sm text-marfil/80",
                   children:
-                    "El cierre de inscripciones el 10 de enero es necesario para garantizar la producción y entrega puntual del equipo oficial (pelotas y gorra) y preparar los materiales del torneo. Queremos brindarte una experiencia de calidad y sin contratiempos.",
+                    "El cierre de inscripciones el 1 de febrero es necesario para garantizar la producción y entrega puntual del equipo oficial (pelotas y gorra) y preparar los materiales del torneo. Queremos brindarte una experiencia de calidad y sin contratiempos.",
                 }),
               ],
             }),
