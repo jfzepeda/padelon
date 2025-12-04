@@ -31231,7 +31231,7 @@ const $y = ln.object({
                             }),
                             _.jsx("div", {
                               className: "text-3xl font-bold text-marfil mb-2",
-                              children: "$950 MXN",
+                              children: "$900 MXN",
                             }),
                             _.jsx("div", {
                               className: "text-sm text-marfil/80",
@@ -31279,7 +31279,7 @@ const $y = ln.object({
                             }),
                             _.jsx("div", {
                               className: "text-3xl font-bold text-marfil mb-2",
-                              children: "$950 MXN",
+                              children: "$900 MXN",
                             }),
                             _.jsx("div", {
                               className: "text-sm text-marfil/80",
@@ -31327,7 +31327,7 @@ const $y = ln.object({
                             }),
                             _.jsx("div", {
                               className: "text-3xl font-bold text-marfil mb-2",
-                              children: "$950 MXN",
+                              children: "$900 MXN",
                             }),
                             _.jsx("div", {
                               className: "text-sm text-marfil/80",
@@ -31375,7 +31375,7 @@ const $y = ln.object({
                             }),
                             _.jsx("div", {
                               className: "text-3xl font-bold text-marfil mb-2",
-                              children: "$950 MXN",
+                              children: "$900 MXN",
                             }),
                             _.jsx("div", {
                               className: "text-sm text-marfil/80",
