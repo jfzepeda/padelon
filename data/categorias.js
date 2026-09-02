@@ -22,7 +22,7 @@ const CATEGORIAS = [
   // },
   {
     name: "5ta Categoría",
-    price: "$850 MXN",
+    price: "$800 MXN",
     date: "7 al 8 de noviembre",
     badge: "Early Access",
     href: "https://forms.gle/MuKCLVXcath1QhNu6",
