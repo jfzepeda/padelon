@@ -322,12 +322,12 @@ video {
   display: none;
 }
 :root {
-  --color-verde: 111 78 55;
-  --color-beige: 87 61 43;
+  --color-verde: 34 31 32;
+  --color-beige: 34 31 32;
   /* --color-beige: 22 27 51; */
   /* --color-beige: 241 218 196; */
-  --color-marfil: 255 255 255;
-  --color-medianoche: 13 12 29;
+  --color-marfil: 217 217 216;
+  --color-medianoche: 34 31 32;
 }
 html {
   scroll-behavior: smooth;
@@ -850,10 +850,6 @@ h6 {
 .border-verde\/40 {
   border-color: rgb(var(--color-verde) / 0.4);
 }
-.bg-\[\#25584f\] {
-  --tw-bg-opacity: 1;
-  background-color: rgb(37 88 79 / var(--tw-bg-opacity, 1));
-}
 .bg-beige {
   --tw-bg-opacity: 1;
   background-color: rgb(var(--color-beige) / var(--tw-bg-opacity, 1));
@@ -1323,10 +1319,6 @@ h6 {
     rotate(var(--tw-rotate)) skew(var(--tw-skew-x)) skewY(var(--tw-skew-y))
     scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
 }
-.hover\:bg-\[\#A8E0D9\]:hover {
-  --tw-bg-opacity: 1;
-  background-color: rgb(168 224 217 / var(--tw-bg-opacity, 1));
-}
 .hover\:bg-beige:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(var(--color-beige) / var(--tw-bg-opacity, 1));
@@ -1335,9 +1327,8 @@ h6 {
   --tw-bg-opacity: 1;
   background-color: rgb(var(--color-verde) / var(--tw-bg-opacity, 1));
 }
-.hover\:text-beige:hover {
-  --tw-text-opacity: 1;
-  color: rgb(var(--color-beige) / var(--tw-text-opacity, 1));
+.hover\:text-marfil\/60:hover {
+  color: rgb(var(--color-marfil) / 0.6);
 }
 .hover\:text-marfil:hover {
   --tw-text-opacity: 1;
