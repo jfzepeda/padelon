@@ -1,3 +1,6 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+
 *,
 :before,
 :after {
@@ -905,6 +908,10 @@ h6 {
   --tw-bg-opacity: 1;
   background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));
 }
+.bg-black {
+  --tw-bg-opacity: 1;
+  background-color: rgb(0 0 0 / var(--tw-bg-opacity, 1));
+}
 .bg-gradient-to-b {
   background-image: linear-gradient(to bottom, var(--tw-gradient-stops));
 }
@@ -1197,6 +1204,10 @@ h6 {
 .text-verde {
   --tw-text-opacity: 1;
   color: rgb(var(--color-verde) / var(--tw-text-opacity, 1));
+}
+.text-white {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity, 1));
 }
 .placeholder-marfil\/60::-moz-placeholder {
   color: rgb(var(--color-marfil) / 0.6);
