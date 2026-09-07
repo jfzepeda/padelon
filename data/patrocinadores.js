@@ -25,18 +25,18 @@ const PATROCINADORES = [
     href: "https://www.instagram.com/nsfreshproduce/",
     featured: true,
   },
-  // {
-  //   name: "Trópico",
-  //   image: "imagenes/tropico.jpeg",
-  //   href: "https://www.instagram.com/tropicoburgers",
-  //   featured: true,
-  // },
-  // {
-  //   name: "Maja",
-  //   image: "imagenes/maja.jpeg",
-  //   href: "https://www.instagram.com/majasportswear/",
-  //   featured: true,
-  // },
+  {
+    name: "Don Comalón",
+    image: "imagenes/don_comalon.jpeg",
+    href: "https://www.instagram.com/don_comalon/",
+    featured: true,
+  },
+  {
+    name: "Sunland commerce",
+    image: "imagenes/sunland.jpeg",
+    href: "https://www.instagram.com/sunland.commerce/",
+    featured: true,
+  },
   {
     name: "Lucca",
     image: "imagenes/lucca.jpeg",
@@ -97,12 +97,7 @@ const PATROCINADORES = [
     href: "https://www.facebook.com/share/1DGtdvVxxc/?mibextid=wwXIfr",
     featured: true,
   },
-  // {
-  //   name: "Box GFS",
-  //   image: "imagenes/box_gfs.jpeg",
-  //   href: "#",
-  //   featured: true,
-  // },
+
   {
     name: "Martiniano",
     image: "imagenes/martiniano.jpeg",
@@ -115,22 +110,42 @@ const PATROCINADORES = [
     href: "#",
     featured: true,
   },
-  // {
-  //   name: "Flashlyte",
-  //   image: "imagenes/flashlyte.jpeg",
-  //   href: "#",
-  //   featured: true,
-  // },
+
   {
     name: "Powerade",
     image: "imagenes/powerade.jpeg",
     href: "#",
     featured: true,
   },
-  // {
-  //   name: "Tequila Blanco",
-  //   image: "imagenes/tequila_blanco.jpeg",
-  //   href: "#",
-  //   featured: true,
-  // },
 ];
+
+// {
+//   name: "Flashlyte",
+//   image: "imagenes/flashlyte.jpeg",
+//   href: "#",
+//   featured: true,
+// },
+// {
+//   name: "Tequila Blanco",
+//   image: "imagenes/tequila_blanco.jpeg",
+//   href: "#",
+//   featured: true,
+// },
+// {
+//   name: "Box GFS",
+//   image: "imagenes/box_gfs.jpeg",
+//   href: "#",
+//   featured: true,
+// },
+// {
+//   name: "Trópico",
+//   image: "imagenes/tropico.jpeg",
+//   href: "https://www.instagram.com/tropicoburgers",
+//   featured: true,
+// },
+// {
+//   name: "Maja",
+//   image: "imagenes/maja.jpeg",
+//   href: "https://www.instagram.com/majasportswear/",
+//   featured: true,
+// },
