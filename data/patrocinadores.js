@@ -7,6 +7,25 @@
 // - dark: true si el logo tiene fondo negro/oscuro (usa fondo negro en la tarjeta en vez de blanco)
 const PATROCINADORES = [
   {
+    name: "NM Sports",
+    image: "imagenes/nm_sports.jpeg",
+    href: "https://www.instagram.com/nmsports_store",
+    featured: true,
+  },
+  {
+    name: "Tempo",
+    image: "imagenes/tempo.jpeg",
+    href: "https://www.instagram.com/tempostudio___",
+    featured: true,
+    dark: true,
+  },
+  {
+    name: "Tequila Buen Punto",
+    image: "imagenes/buen_punto.jpeg",
+    href: "https://www.instagram.com/buenpunto.tequila",
+    featured: true,
+  },
+  {
     name: "Cumparsita",
     image: "imagenes/cumparsita.jpeg",
     href: "https://www.instagram.com/cumparsita_mx/",
@@ -111,37 +130,17 @@ const PATROCINADORES = [
     href: "#",
     featured: true,
   },
-
-  {
-    name: "Tequila Buen Punto",
-    image: "imagenes/buen_punto.jpeg",
-    href: "#",
-    featured: true,
-  },
-  {
-    name: "NM Sports",
-    image: "imagenes/nm_sports.jpeg",
-    href: "#",
-    featured: true,
-  },
   {
     name: "Pádel Lifee",
     image: "imagenes/padel_lifee.jpeg",
-    href: "#",
-    featured: true,
-    dark: true,
-  },
-  {
-    name: "Tempo",
-    image: "imagenes/tempo.jpeg",
-    href: "#",
+    href: "https://www.instagram.com/padel_lifee",
     featured: true,
     dark: true,
   },
   {
     name: "Ferremateriales Verco",
     image: "imagenes/verco.jpg",
-    href: "#",
+    href: "https://www.instagram.com/ferremateriales_verco",
     featured: true,
   },
 ];
