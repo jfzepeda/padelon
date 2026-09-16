@@ -56,12 +56,6 @@ const PATROCINADORES = [
     featured: true,
   },
   {
-    name: "Lazpro",
-    image: "imagenes/lazpro.jpeg",
-    href: "https://www.instagram.com/lazpro_acuacultura/",
-    featured: true,
-  },
-  {
     name: "Colima Padel Club",
     image: "imagenes/cpc.jpeg",
     href: "https://www.instagram.com/colimapadelclub/",
@@ -117,6 +111,39 @@ const PATROCINADORES = [
     href: "#",
     featured: true,
   },
+
+  {
+    name: "Tequila Buen Punto",
+    image: "imagenes/buen_punto.jpeg",
+    href: "#",
+    featured: true,
+  },
+  {
+    name: "NM Sports",
+    image: "imagenes/nm_sports.jpeg",
+    href: "#",
+    featured: true,
+  },
+  {
+    name: "Pádel Lifee",
+    image: "imagenes/padel_lifee.jpeg",
+    href: "#",
+    featured: true,
+    dark: true,
+  },
+  {
+    name: "Tempo",
+    image: "imagenes/tempo.jpeg",
+    href: "#",
+    featured: true,
+    dark: true,
+  },
+  {
+    name: "Ferremateriales Verco",
+    image: "imagenes/verco.jpg",
+    href: "#",
+    featured: true,
+  },
 ];
 
 // {
@@ -147,5 +174,11 @@ const PATROCINADORES = [
 //   name: "Maja",
 //   image: "imagenes/maja.jpeg",
 //   href: "https://www.instagram.com/majasportswear/",
+//   featured: true,
+// },
+// {
+//   name: "Lazpro",
+//   image: "imagenes/lazpro.jpeg",
+//   href: "https://www.instagram.com/lazpro_acuacultura/",
 //   featured: true,
 // },
