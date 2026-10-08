@@ -143,6 +143,68 @@ const PATROCINADORES = [
     href: "https://www.instagram.com/ferremateriales_verco",
     featured: true,
   },
+  {
+    name: "Atmos Store",
+    image: "imagenes/atmos_store.jpeg",
+    href: "#",
+    featured: false,
+    dark: true,
+  },
+  {
+    name: "La Casa de la Abuela Chuy",
+    image: "imagenes/casa_de_la_abuela.jpeg",
+    href: "#",
+    featured: false,
+  },
+  {
+    name: "Larifrut",
+    image: "imagenes/larifrut.jpeg",
+    href: "#",
+    featured: false,
+  },
+  {
+    name: "Mueblería Sánchez",
+    image: "imagenes/muebleria_sanches.jpeg",
+    href: "#",
+    featured: false,
+  },
+  {
+    name: "Multiservicios Entronque Puerta de Caleras",
+    image: "imagenes/multiservicios.jpeg",
+    href: "#",
+    featured: false,
+  },
+  {
+    name: "Quálitas Salud",
+    image: "imagenes/qualitas.jpeg",
+    href: "#",
+    featured: false,
+    dark: true,
+  },
+  {
+    name: "Refacc. y Rectif. Chavez",
+    image: "imagenes/refac_chavez.jpeg",
+    href: "#",
+    featured: false,
+  },
+  {
+    name: "SiCar Farms",
+    image: "imagenes/sicar.jpeg",
+    href: "#",
+    featured: false,
+  },
+  {
+    name: "Limones Citro's de Tecomán",
+    image: "imagenes/logocitros.jpg",
+    href: "#",
+    featured: false,
+  },
+  {
+    name: "Lazpro",
+    image: "imagenes/lazpro.jpeg",
+    href: "https://www.instagram.com/lazpro_acuacultura/",
+    featured: true,
+  },
 ];
 
 // {
@@ -174,10 +236,4 @@ const PATROCINADORES = [
 //   image: "imagenes/maja.jpeg",
 //   href: "https://www.instagram.com/majasportswear/",
 //   featured: true,
-// },
-// {
-//   name: "Lazpro",
-//   image: "imagenes/lazpro.jpeg",
-//   href: "https://www.instagram.com/lazpro_acuacultura/",
-//   featured: true,
-// },
+// }
