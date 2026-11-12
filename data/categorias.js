@@ -6,32 +6,32 @@
 // - badge: etiqueta superior (ej. "Early Access")
 // - href: enlace de inscripción
 const CATEGORIAS = [
-  // {
-  //   name: "4ta Categoría",
-  //   price: "$850 MXN",
-  //   date: "7 al 8 de noviembre",
-  //   badge: "Early Access",
-  //   href: "https://forms.gle/MuKCLVXcath1QhNu6",
-  // },
+  {
+    name: "5ta Categoría",
+    price: "$750 MXN",
+    date: "11 al 12 de diciembre",
+    badge: "Early Access",
+    href: "https://forms.gle/L4Jd58MTKQWU6n1g9",
+  },
   // {
   //   name: "De Suma 4",
   //   price: "$850 MXN",
-  //   date: "7 al 8 de noviembre",
+  //   date: "11 al 12 de diciembre",
   //   badge: "Early Access",
-  //   href: "https://forms.gle/MuKCLVXcath1QhNu6",
+  //   href: "https://forms.gle/L4Jd58MTKQWU6n1g9",
   // },
   {
-    name: "4ta Categoría",
-    price: "$800 MXN",
-    date: "7 al 8 de noviembre",
+    name: "6ta Categoría",
+    price: "$750 MXN",
+    date: "11 al 12 de diciembre",
     badge: "Early Access",
-    href: "https://forms.gle/MuKCLVXcath1QhNu6",
+    href: "https://forms.gle/L4Jd58MTKQWU6n1g9",
   },
-  // {
-  //   name: "6ta categoría",
-  //   price: "$850 MXN",
-  //   date: "7 al 8 de noviembre",
-  //   badge: "Early Access",
-  //   href: "https://forms.gle/MuKCLVXcath1QhNu6",
-  // },
+  {
+    name: "Femenil C",
+    price: "$750 MXN",
+    date: "11 al 12 de diciembre",
+    badge: "Early Access",
+    href: "https://forms.gle/L4Jd58MTKQWU6n1g9",
+  },
 ];
