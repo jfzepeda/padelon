@@ -8,7 +8,7 @@
 const CATEGORIAS = [
   {
     name: "5ta Categoría",
-    price: "$750 MXN",
+    price: "$800 MXN",
     date: "11 al 12 de diciembre",
     badge: "Early Access",
     href: "https://forms.gle/L4Jd58MTKQWU6n1g9",
@@ -22,14 +22,14 @@ const CATEGORIAS = [
   // },
   {
     name: "6ta Categoría",
-    price: "$750 MXN",
+    price: "$800 MXN",
     date: "11 al 12 de diciembre",
     badge: "Early Access",
     href: "https://forms.gle/L4Jd58MTKQWU6n1g9",
   },
   {
     name: "Femenil C",
-    price: "$750 MXN",
+    price: "$800 MXN",
     date: "11 al 12 de diciembre",
     badge: "Early Access",
     href: "https://forms.gle/L4Jd58MTKQWU6n1g9",

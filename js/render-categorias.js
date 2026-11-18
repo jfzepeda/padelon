@@ -51,6 +51,7 @@
                 </div>
                 <div class="text-3xl font-bold text-marfil mb-2">
                   ${c.price}
+                  <span class="text-sm font-normal text-marfil/80">por persona</span>
                 </div>
                 <div class="text-sm text-marfil/80">
                   ${c.date}
